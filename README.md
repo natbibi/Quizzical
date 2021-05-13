@@ -2,10 +2,10 @@
 
 🦋  [![Netlify Status](https://api.netlify.com/api/v1/badges/c3504deb-6376-4b64-abbb-4a4536f23868/deploy-status)](https://app.netlify.com/sites/letsgetquizzical/deploys) 🚀  ![Heroku](https://pyheroku-badge.herokuapp.com/?app=quizzicalquiz&style=flat) ⚖️  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+Let's Get Quizzical is an online quiz game built in fullstack with react and redux on the client, Node.js and Express on the server and a mongoDB database. The game uses Socket.io to allow multiple users to play together, questions and answers are fetched from OpenTrivia API, and it is deployed on Netlify and Heroku.
+
 ## Description
 Lockdown has seen a spike in online quizzes and people have been deprived of the party experience. So with that in mind, we wanted to give people a platform to play multiplayer quizzes remotely, mordernise the typical pub quiz by having a neon party theme to bring the party feel to the user!
-
-Let's Get Quizzical is an online quiz game built in fullstack with react and redux on the client, Node.js and Express on the server and a mongoDB database. The game uses Socket.io to allow multiple users to play together, questions and answers are fetched from OpenTrivia API, and it is deployed on Netlify and Heroku.
 
 ![](quizzicaldemo.gif)
 
